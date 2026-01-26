@@ -19,15 +19,7 @@ lines=Hi, I'm Ahmed 👋;" />
   </a>
 </p>
 
-# About Me
 
-AI Engineer & Data Scientist with hands-on experience in:
-- NLP & LLM-based systems
-- Agentic AI & intelligent assistants
-- Data analysis & machine learning
-- Building real-world, production-ready pipelines
-
----
 
 ## 🚀 What I Do
 - Design **Agentic AI systems** for customer support & automation
