@@ -1,14 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-size=28&
-pause=1000&
-color=00C2FF&
-center=true&
-vCenter=true&
-width=500&
-lines=Hi, I'm Ahmed 👋;" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi, I'm Ahmed 👋;" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-m-abdelsalam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,6 +10,7 @@ lines=Hi, I'm Ahmed 👋;" />
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
