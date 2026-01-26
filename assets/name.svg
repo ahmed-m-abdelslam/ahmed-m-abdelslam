@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="80">
+  <style>
+    text {
+      font-family: monospace;
+      font-size: 32px;
+      fill: #36BCF7;
+    }
+  </style>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    <tspan id="t">Hi, I'm Ahmed 👋</tspan>
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.1s"
+      repeatCount="1"/>
+  </text>
+
+  <rect x="200" y="55" width="10" height="3" fill="#36BCF7">
+    <animate
+      attributeName="x"
+      from="200"
+      to="480"
+      dur="3s"
+      repeatCount="indefinite" />
+  </rect>
+</svg>
