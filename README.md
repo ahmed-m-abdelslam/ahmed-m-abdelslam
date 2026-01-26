@@ -1,15 +1,28 @@
 <p align="center">
   <img src="assets/name.svg" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-m-abdelsalam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="assets/linkedin.svg" width="36" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:ahmed.m.abdelsalam99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="assets/email.svg" width="36" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201551825961" target="_blank">
+    <img src="assets/whatsapp.svg" width="36" alt="WhatsApp"/>
   </a>
 </p>
+
+
+<p align="center">
+  </a>
+  &nbsp;
+  <code>ahmed.m.abdelsalam99@gmail.com</code>
+</p>
+
 
 
 
@@ -72,6 +85,8 @@
 ---
 
 ## 📂  Projects
+### 🔹 [Mini RAG Application](https://github.com/ahmed-m-abdelslam/Mini-RAG-App)
+### 🔹 [Customer Helper Agent](https://github.com/ahmed-m-abdelslam/Customer-Helper-Agent)
 
 ### 🔹 [Customer Support Bot Analysis](https://github.com/ahmed-m-abdelslam/Customer-Support-Bot-Analysis)
 
