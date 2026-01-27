@@ -30,7 +30,7 @@
 
 ## 🚀 What I Do
 - Design **Agentic AI systems** for customer support & automation
-- Work with **LLMs, embeddings, and NLP pipelines**
+- Work with **LLMs, embeddings, RAG, and NLP pipelines**
 - Solve **real operational problems** using data & ML
 - Build clean, explainable, and scalable solutions
 
