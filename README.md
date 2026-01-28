@@ -85,7 +85,7 @@
 ---
 
 ## 📂  Projects
-### 1- [Mini RAG Application](https://github.com/ahmed-m-abdelslam/Mini-RAG-App)         2- [Customer Helper Agent](https://github.com/ahmed-m-abdelslam/Customer-Helper-Agent)   3- [Customer Support Bot Analysis](https://github.com/ahmed-m-abdelslam/Customer-Support-Bot-Analysis) 
+###  [1- Mini RAG Application](https://github.com/ahmed-m-abdelslam/Mini-RAG-App)         2- [Customer Helper Agent](https://github.com/ahmed-m-abdelslam/Customer-Helper-Agent)   3- [Customer Support Bot Analysis](https://github.com/ahmed-m-abdelslam/Customer-Support-Bot-Analysis) 
 
 
 ###  🔹 [Solving Operational Problems in Logistics](https://github.com/ahmed-m-abdelslam/Solving-Operational-Problem)   [Customer Support Bot Analysis Agent](https://github.com/ahmed-m-abdelslam/Customer-Support-Bot-Analysis-Agent)
