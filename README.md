@@ -85,10 +85,10 @@
 ---
 
 ## 📂  Projects
-### 🔹 [Mini RAG Application](https://github.com/ahmed-m-abdelslam/Mini-RAG-App)         🔹 [Customer Helper Agent](https://github.com/ahmed-m-abdelslam/Customer-Helper-Agent)
+### 🔹 [Mini RAG Application](https://github.com/ahmed-m-abdelslam/Mini-RAG-App)         🔹 [Customer Helper Agent](https://github.com/ahmed-m-abdelslam/Customer-Helper-Agent)   🔹 [Customer Support Bot Analysis](https://github.com/ahmed-m-abdelslam/Customer-Support-Bot-Analysis) 
 
 
-### 🔹 [Customer Support Bot Analysis](https://github.com/ahmed-m-abdelslam/Customer-Support-Bot-Analysis)        🔹 [Solving Operational Problems in Logistics](https://github.com/ahmed-m-abdelslam/Solving-Operational-Problem)
+###        🔹 [Solving Operational Problems in Logistics](https://github.com/ahmed-m-abdelslam/Solving-Operational-Problem)
 
 ### 
 
