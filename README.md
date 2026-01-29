@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>
-      <b>Vector Database</b>
+      <b>Vector DB</b>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
